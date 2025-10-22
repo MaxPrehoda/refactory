@@ -22,6 +22,9 @@ ReFactory is an idle programming game that teaches Python through interactive ga
 
 ## 🚀 Getting Started
 
+Not looking to contribute? Just want to play and optimize to the top of the leaderboard?
+https://refactory-swart.vercel.app/
+
 ### Prerequisites
 
 - Node.js (v18 or higher)
